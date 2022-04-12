@@ -39,9 +39,8 @@ ul {
 input {
   border-radius: 0px;
 }
-label {
+.error {
   color: red;
-  display: none;
 }
 .container {
   padding: 30px 70px;
